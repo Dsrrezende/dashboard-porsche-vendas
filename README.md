@@ -2,7 +2,7 @@
 
 Dashboard em HTML (arquivo único) que transforma uma planilha de **100 vendas da Porsche** em respostas para três perguntas de negócio, com filtros, indicadores de topo e publicação no GitHub Pages.
 
-### 🔗 Dashboard publicada: **https://SEU_USUARIO.github.io/dashboard-porsche-vendas/**
+### 🔗 Dashboard publicada: **https://Dsrrezende.github.io/dashboard-porsche-vendas/**
 
 ![Dashboard completa](images/dashboard-completa.png)
 
@@ -88,7 +88,7 @@ dashboard-porsche-vendas/
 
 1. Suba os arquivos para um repositório público.
 2. Em **Settings → Pages**, escolha *Deploy from a branch*, branch `main`, pasta `/ (root)` e clique em **Save**.
-3. Depois de 1 a 2 minutos, a dashboard fica no ar em `https://SEU_USUARIO.github.io/dashboard-porsche-vendas/`.
+3. Depois de 1 a 2 minutos, a dashboard fica no ar em `https://Dsrrezende.github.io/dashboard-porsche-vendas/`.
 
 ## 💡 Próximos passos
 
